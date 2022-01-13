@@ -1,6 +1,6 @@
 
 
-name: CI
+name: nginx:alpine
 
 # Controls when the workflow will run
 on:
