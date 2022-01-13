@@ -3,8 +3,9 @@ name: nginx:alpine
 on:
   push:
     branches:
-      - 'build'
-
+      - 'Build'
+      
+      
 jobs:
   docker:
     runs-on: ubuntu-latest
